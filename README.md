@@ -31,8 +31,8 @@ Works great in the browser with
 
 ## See Also
 - [promise-every](https://github.com/yoshuawuyts/promise-every)
-- [promise-filter](https://github.com/yoshuawuyts/promise-filter)
 - [promise-forEach](https://github.com/yoshuawuyts/promise-forEach)
+- [promise-map](https://github.com/yoshuawuyts/promise-map)
 - [promise-reduce](https://github.com/yoshuawuyts/promise-reduce)
 - [promise-some](https://github.com/yoshuawuyts/promise-some)
 
